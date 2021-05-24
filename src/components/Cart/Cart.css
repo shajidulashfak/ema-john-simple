@@ -1,0 +1,15 @@
+.orderSummary{
+  background-color: lightgray;
+  margin: 10px 0 0 20px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+  box-shadow: 10px 10px 15px grey;
+}
+.orderSummary h2{
+    border-bottom: 3px solid gray;
+    color: lightslategrey;
+}
+.orderSummary h3{
+    color: green;
+}

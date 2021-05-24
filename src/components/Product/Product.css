@@ -1,0 +1,26 @@
+.product{
+    display: flex;
+    padding: 20px;
+    border-bottom: 1px solid gray;
+}
+.product-name h4{
+    padding: 10px;
+    margin-left: 15px;
+    color: blue;
+    font-weight: 500;
+}
+.product-name p{
+    margin-left: 20px;
+    color: dimgray;
+    font-weight: 500;
+}
+.cartBtn{
+    margin-left: 20px;
+    color: black;
+    background-color: goldenrod;
+    font-weight: 800;
+    width: 220px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
